@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Kaszojad #1",
+    "description": "description kaszojadów",
+    "image": "https://i.gyazo.com/1c45c46f4d22856cfdb3a0b46af69bc1.png",
+    "external_url": "https://www.google.com",
+    "attributes": [
+      {
+        "value": "Jufina",
+        "trait_type": "source"
+      },
+      {
+        "value": "4237",
+        "trait_type": "weight"
+      },
+      {
+        "value": "75",
+        "trait_type": "height"
+      },
+      {
+        "value": "Yellow",
+        "trait_type": "eyes"
+      },
+      {
+        "value": "Blue",
+        "trait_type": "hair"
+      },
+      {
+        "value": "Brown",
+        "trait_type": "ears"
+      },
+      {
+        "value": "Red",
+        "trait_type": "race"
+      }
+    ]
+  }
+]
