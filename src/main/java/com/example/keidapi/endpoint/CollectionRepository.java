@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Map;
 
 @Component
-public class KeidRepository {
+public class CollectionRepository {
 
     private final ResourceLoader resourceLoader;
 
@@ -20,7 +20,7 @@ public class KeidRepository {
 
     private Map<Integer, TokenResponse> tokens;
 
-    public KeidRepository(ResourceLoader resourceLoader) {
+    public CollectionRepository(ResourceLoader resourceLoader) {
         this.resourceLoader = resourceLoader;
         tokens = new HashMap<>();
     }

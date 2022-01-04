@@ -1,7 +1,7 @@
 [
   {
-    "name": "Kaszojad #1",
-    "description": "description kaszojadów",
+    "name": "TOKEN #1",
+    "description": "DESC",
     "image": "https://i.gyazo.com/1c45c46f4d22856cfdb3a0b46af69bc1.png",
     "external_url": "https://www.google.com",
     "attributes": [
@@ -12,32 +12,12 @@
       {
         "value": "4237",
         "trait_type": "weight"
-      },
-      {
-        "value": "75",
-        "trait_type": "height"
-      },
-      {
-        "value": "Yellow",
-        "trait_type": "eyes"
-      },
-      {
-        "value": "Blue",
-        "trait_type": "hair"
-      },
-      {
-        "value": "Brown",
-        "trait_type": "ears"
-      },
-      {
-        "value": "Red",
-        "trait_type": "race"
       }
     ]
   },
   {
-    "name": "Kaszojad #1",
-    "description": "description kaszojadów",
+    "name": "TOKEN #2",
+    "description": "DESC",
     "image": "https://i.gyazo.com/1c45c46f4d22856cfdb3a0b46af69bc1.png",
     "external_url": "https://www.google.com",
     "attributes": [
@@ -48,26 +28,6 @@
       {
         "value": "4237",
         "trait_type": "weight"
-      },
-      {
-        "value": "75",
-        "trait_type": "height"
-      },
-      {
-        "value": "Yellow",
-        "trait_type": "eyes"
-      },
-      {
-        "value": "Blue",
-        "trait_type": "hair"
-      },
-      {
-        "value": "Brown",
-        "trait_type": "ears"
-      },
-      {
-        "value": "Red",
-        "trait_type": "race"
       }
     ]
   }

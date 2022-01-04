@@ -8,20 +8,20 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/api/metadata")
-public class KaszojadyController {
+public class CollectionController {
 
 
-    private final KeidRepository keidRepository;
+    private final CollectionRepository collectionRepository;
 
-    public KaszojadyController(KeidRepository keidRepository) {
-        this.keidRepository = keidRepository;
+    public CollectionController(CollectionRepository collectionRepository) {
+        this.collectionRepository = collectionRepository;
 
     }
 
 
     @GetMapping(path = "/{tokenId}")
     public TokenResponse getTokenMetadata(@PathVariable(name = "tokenId") Integer tokenId) {
-        return keidRepository.getTokenMetadata(tokenId);
+        return collectionRepository.getTokenMetadata(tokenId);
     }
 
 }
