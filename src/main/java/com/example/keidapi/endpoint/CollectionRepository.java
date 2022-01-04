@@ -27,7 +27,7 @@ public class CollectionRepository {
 
 
     public TokenResponse getTokenMetadata(Integer tokenId){
-        return tokens.getOrDefault(tokenId, null);
+        return tokens.getOrDefault(tokenId-1, null);
     }
 
 
