@@ -30,6 +30,26 @@
         "trait_type": "weight"
       }
     ]
+  },
+  {
+    "name": "Krysztal",
+    "description": "DESC",
+    "image": "https://i.gyazo.com/1c45c46f4d22856cfdb3a0b46af69bc1.png",
+    "external_url": "https://www.google.com",
+    "attributes": [
+      {
+        "value": "Jufina",
+        "trait_type": "source"
+      },
+      {
+        "value": "4237",
+        "trait_type": "weight"
+      },
+      {
+        "value": "tlo",
+        "trait_type": "red"
+      }
+    ]
   }
 ]
 
